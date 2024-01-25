@@ -1,6 +1,6 @@
 #import <studio.h>
 
 int main() {
-	printf("Hello world!");
+	printf("Hello world! AND MARS");
 	return 0;
 	}
